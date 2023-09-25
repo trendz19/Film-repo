@@ -226,9 +226,6 @@
         <fullName>Adventure__c</fullName>
         <externalId>false</externalId>
         <label>Adventure</label>
-        <fullName>Star__c</fullName>
-        <externalId>false</externalId>
-        <label>Star</label>
         <length>25</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
@@ -236,4 +233,3 @@
         <unique>false</unique>
     </fields>
 </CustomObject>
-
