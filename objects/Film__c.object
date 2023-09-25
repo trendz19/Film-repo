@@ -163,6 +163,16 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
+        <fullName>Star__c</fullName>
+        <externalId>false</externalId>
+        <label>Star</label>
+        <length>25</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Movie_1__c</fullName>
         <externalId>false</externalId>
         <label>Movie 1</label>
