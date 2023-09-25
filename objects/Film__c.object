@@ -182,7 +182,7 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-      <fields>
+    <fields>
         <fullName>Movie_3__c</fullName>
         <externalId>false</externalId>
         <label>Movie 3</label>
