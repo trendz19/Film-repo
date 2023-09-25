@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">    
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Adventure__c</fullName>
+        <externalId>false</externalId>
+        <label>Adventure</label>
+        <length>25</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <fields>
         <fullName>Movie_1__c</fullName>
         <externalId>false</externalId>
@@ -51,19 +61,6 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Star__c</fullName>
-        <externalId>false</externalId>
-        <label>Star</label>
-        <length>25</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Adventure__c</fullName>
-        <externalId>false</externalId>
-        <label>Adventure</label>
         <fullName>Star__c</fullName>
         <externalId>false</externalId>
         <label>Star</label>
